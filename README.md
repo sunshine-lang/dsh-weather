@@ -77,6 +77,10 @@ pnpm build        # tsc → lib/
 
 Rebuild from a DeepSeek Harness checkout (for type resolution against the workspace source) uses `tsconfig.local.json` instead: `tsc -p tsconfig.local.json`.
 
+## More plugins by this author
+
+All DeepSeek Harness plugins by this author, in one place: [dsh-plugins](https://github.com/sunshine-lang/dsh-plugins)
+
 ## License
 
 MIT. Weather data © [Open-Meteo](https://open-meteo.com/).
