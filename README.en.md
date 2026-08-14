@@ -21,6 +21,12 @@ dsh plugin --profile web add "github:sunshine-lang/dsh-weather"
 
 Then restart `dsh --profile web`. `lib/` is prebuilt and committed, so no build permission is needed.
 
+### From npm
+
+```sh
+dsh plugin --profile web add dsh-weather
+```
+
 ### From a local checkout (development)
 
 ```sh

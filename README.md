@@ -21,6 +21,12 @@ dsh plugin --profile web add "github:sunshine-lang/dsh-weather"
 
 然后重启 `dsh --profile web`。`lib/` 已预构建并提交，安装无需构建权限。
 
+### 从 npm 安装
+
+```sh
+dsh plugin --profile web add dsh-weather
+```
+
 ### 从本地源码安装（开发）
 
 ```sh
