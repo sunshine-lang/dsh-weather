@@ -14,7 +14,7 @@ Weather tool for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harn
 ### From GitHub
 
 ```sh
-dsh plugin --profile web add "github:YOUR_NAME/dsh-weather"
+dsh plugin --profile web add "github:sunshine-lang/dsh-weather"
 ```
 
 Then restart `dsh --profile web`. `lib/` is prebuilt and committed, so no build permission is needed.
